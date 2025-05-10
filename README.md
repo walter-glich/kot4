@@ -4,3 +4,40 @@ de como se puede automatizar de forma simple el aircrack-ng solo para realizar u
 obvio SI O SI NECESITAS TENER SUDO SU Y AIRCRACK-NG .
 
 yo lo use con KALI LINUX pero tambien sirve para TERMUX con usuario ROOT  y un adaptador para usar un usb de wifi compatible con modo monitor
+
+
+```
+           ;               ,           
+         ,;                 '.         
+        ;:                   :;        
+       ::                     ::       
+       ::                     ::       
+       ':                     :        
+        :.                    :        
+     ;' ::                   ::  '     
+    .'  ';                   ;'  '.    
+   ::    :;                 ;:    ::   
+   ;      :;.             ,;:     ::   
+   :;      :;:           ,;"      ::   
+   ::.      ':;  ..,.;  ;:'     ,.;:   
+    "'"...   '::,::::: ;:   .;.;""'    
+        '"""....;:::::;,;.;"""         
+    .:::.....'"':::::::'",...;::::;.   
+   ;:' '""'"";.,;:::::;.'""""""  ':;   
+  ::'         ;::;:::;::..         :;  
+ ::         ,;:::::::::::;:..       :: 
+ ;'     ,;;:;::::::::::::::;";..    ':.
+::     ;:"  ::::::"""'::::::  ":     ::
+ :.    ::   ::::::;  :::::::   :     ; 
+  ;    ::   :::::::  :::::::   :    ;  
+   '   ::   ::::::....:::::'  ,:   '   
+    '  ::    :::::::::::::"   ::       
+       ::     ':::::::::"'    ::       
+       ':       """""""'      ::       
+        ::                   ;:        
+        ':;                 ;:"        
+          ';              ,;'          
+            "'           '"            
+              '
+
+```
